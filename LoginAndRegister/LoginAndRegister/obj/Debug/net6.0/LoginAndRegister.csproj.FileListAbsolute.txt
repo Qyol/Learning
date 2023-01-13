@@ -1,0 +1,15 @@
+C:\Users\giorg\source\repos\LoginAndRegister\LoginAndRegister\bin\Debug\net6.0\LoginAndRegister.exe
+C:\Users\giorg\source\repos\LoginAndRegister\LoginAndRegister\bin\Debug\net6.0\LoginAndRegister.deps.json
+C:\Users\giorg\source\repos\LoginAndRegister\LoginAndRegister\bin\Debug\net6.0\LoginAndRegister.runtimeconfig.json
+C:\Users\giorg\source\repos\LoginAndRegister\LoginAndRegister\bin\Debug\net6.0\LoginAndRegister.dll
+C:\Users\giorg\source\repos\LoginAndRegister\LoginAndRegister\bin\Debug\net6.0\LoginAndRegister.pdb
+C:\Users\giorg\source\repos\LoginAndRegister\LoginAndRegister\obj\Debug\net6.0\LoginAndRegister.csproj.AssemblyReference.cache
+C:\Users\giorg\source\repos\LoginAndRegister\LoginAndRegister\obj\Debug\net6.0\LoginAndRegister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorg\source\repos\LoginAndRegister\LoginAndRegister\obj\Debug\net6.0\LoginAndRegister.AssemblyInfoInputs.cache
+C:\Users\giorg\source\repos\LoginAndRegister\LoginAndRegister\obj\Debug\net6.0\LoginAndRegister.AssemblyInfo.cs
+C:\Users\giorg\source\repos\LoginAndRegister\LoginAndRegister\obj\Debug\net6.0\LoginAndRegister.csproj.CoreCompileInputs.cache
+C:\Users\giorg\source\repos\LoginAndRegister\LoginAndRegister\obj\Debug\net6.0\LoginAndRegister.dll
+C:\Users\giorg\source\repos\LoginAndRegister\LoginAndRegister\obj\Debug\net6.0\refint\LoginAndRegister.dll
+C:\Users\giorg\source\repos\LoginAndRegister\LoginAndRegister\obj\Debug\net6.0\LoginAndRegister.pdb
+C:\Users\giorg\source\repos\LoginAndRegister\LoginAndRegister\obj\Debug\net6.0\LoginAndRegister.genruntimeconfig.cache
+C:\Users\giorg\source\repos\LoginAndRegister\LoginAndRegister\obj\Debug\net6.0\ref\LoginAndRegister.dll
