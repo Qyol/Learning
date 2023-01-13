@@ -1,0 +1,15 @@
+C:\Users\giorg\source\repos\Qyol\Learning\IfStatements2\IfStatements2\bin\Debug\net6.0\IfStatements2.exe
+C:\Users\giorg\source\repos\Qyol\Learning\IfStatements2\IfStatements2\bin\Debug\net6.0\IfStatements2.deps.json
+C:\Users\giorg\source\repos\Qyol\Learning\IfStatements2\IfStatements2\bin\Debug\net6.0\IfStatements2.runtimeconfig.json
+C:\Users\giorg\source\repos\Qyol\Learning\IfStatements2\IfStatements2\bin\Debug\net6.0\IfStatements2.dll
+C:\Users\giorg\source\repos\Qyol\Learning\IfStatements2\IfStatements2\bin\Debug\net6.0\IfStatements2.pdb
+C:\Users\giorg\source\repos\Qyol\Learning\IfStatements2\IfStatements2\obj\Debug\net6.0\IfStatements2.csproj.AssemblyReference.cache
+C:\Users\giorg\source\repos\Qyol\Learning\IfStatements2\IfStatements2\obj\Debug\net6.0\IfStatements2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorg\source\repos\Qyol\Learning\IfStatements2\IfStatements2\obj\Debug\net6.0\IfStatements2.AssemblyInfoInputs.cache
+C:\Users\giorg\source\repos\Qyol\Learning\IfStatements2\IfStatements2\obj\Debug\net6.0\IfStatements2.AssemblyInfo.cs
+C:\Users\giorg\source\repos\Qyol\Learning\IfStatements2\IfStatements2\obj\Debug\net6.0\IfStatements2.csproj.CoreCompileInputs.cache
+C:\Users\giorg\source\repos\Qyol\Learning\IfStatements2\IfStatements2\obj\Debug\net6.0\IfStatements2.dll
+C:\Users\giorg\source\repos\Qyol\Learning\IfStatements2\IfStatements2\obj\Debug\net6.0\refint\IfStatements2.dll
+C:\Users\giorg\source\repos\Qyol\Learning\IfStatements2\IfStatements2\obj\Debug\net6.0\IfStatements2.pdb
+C:\Users\giorg\source\repos\Qyol\Learning\IfStatements2\IfStatements2\obj\Debug\net6.0\IfStatements2.genruntimeconfig.cache
+C:\Users\giorg\source\repos\Qyol\Learning\IfStatements2\IfStatements2\obj\Debug\net6.0\ref\IfStatements2.dll
