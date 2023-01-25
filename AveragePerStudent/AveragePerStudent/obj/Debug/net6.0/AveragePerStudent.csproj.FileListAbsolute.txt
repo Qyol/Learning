@@ -1,0 +1,15 @@
+C:\Users\giorg\source\repos\Qyol\Learning\AveragePerStudent\AveragePerStudent\bin\Debug\net6.0\AveragePerStudent.exe
+C:\Users\giorg\source\repos\Qyol\Learning\AveragePerStudent\AveragePerStudent\bin\Debug\net6.0\AveragePerStudent.deps.json
+C:\Users\giorg\source\repos\Qyol\Learning\AveragePerStudent\AveragePerStudent\bin\Debug\net6.0\AveragePerStudent.runtimeconfig.json
+C:\Users\giorg\source\repos\Qyol\Learning\AveragePerStudent\AveragePerStudent\bin\Debug\net6.0\AveragePerStudent.dll
+C:\Users\giorg\source\repos\Qyol\Learning\AveragePerStudent\AveragePerStudent\bin\Debug\net6.0\AveragePerStudent.pdb
+C:\Users\giorg\source\repos\Qyol\Learning\AveragePerStudent\AveragePerStudent\obj\Debug\net6.0\AveragePerStudent.csproj.AssemblyReference.cache
+C:\Users\giorg\source\repos\Qyol\Learning\AveragePerStudent\AveragePerStudent\obj\Debug\net6.0\AveragePerStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorg\source\repos\Qyol\Learning\AveragePerStudent\AveragePerStudent\obj\Debug\net6.0\AveragePerStudent.AssemblyInfoInputs.cache
+C:\Users\giorg\source\repos\Qyol\Learning\AveragePerStudent\AveragePerStudent\obj\Debug\net6.0\AveragePerStudent.AssemblyInfo.cs
+C:\Users\giorg\source\repos\Qyol\Learning\AveragePerStudent\AveragePerStudent\obj\Debug\net6.0\AveragePerStudent.csproj.CoreCompileInputs.cache
+C:\Users\giorg\source\repos\Qyol\Learning\AveragePerStudent\AveragePerStudent\obj\Debug\net6.0\AveragePerStudent.dll
+C:\Users\giorg\source\repos\Qyol\Learning\AveragePerStudent\AveragePerStudent\obj\Debug\net6.0\refint\AveragePerStudent.dll
+C:\Users\giorg\source\repos\Qyol\Learning\AveragePerStudent\AveragePerStudent\obj\Debug\net6.0\AveragePerStudent.pdb
+C:\Users\giorg\source\repos\Qyol\Learning\AveragePerStudent\AveragePerStudent\obj\Debug\net6.0\AveragePerStudent.genruntimeconfig.cache
+C:\Users\giorg\source\repos\Qyol\Learning\AveragePerStudent\AveragePerStudent\obj\Debug\net6.0\ref\AveragePerStudent.dll
